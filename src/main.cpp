@@ -73,4 +73,3 @@ void loop() {
     old_n_spo2=n_spo2;
   }
 }
-
